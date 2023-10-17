@@ -42,7 +42,7 @@
 9. You can bring up a second client and communicate with the server through it
 
 
-10. [Here](https://drive.google.com/file/d/1EMn8Vl0RIP5t5O20QwDRO_Q2TVGkLmOr/view?usp=sharing) is a screen recording showing how I am interacting with the client and server components of the task. You can download and view it.
+10. [Here](https://drive.google.com/drive/folders/1nvnqL9PBhhmDdfy8_TwIw3iJNywd-9VA?usp=drive_link) is a screen recording showing how I am interacting with the client and server components of the task. You can download and view it.
 
 
 
